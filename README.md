@@ -7,7 +7,7 @@ Created on 01-May-2023.
 Bikeshare statistics project
 
 ### Description
-Describe what your project is about and what it does
+Analizes statistics with Python for Bikeshare in somes cities of the US
 
 ### Files used
 Include the files used
