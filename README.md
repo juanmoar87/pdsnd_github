@@ -10,8 +10,8 @@ Bikeshare statistics project
 Analizes statistics with Python for Bikeshare in somes cities of the US
 
 ### Files used
-Include the files used
+bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Made by Juan Camilo Mojica Arango (juanmoar87@gmail.com). Inspired by Udacity.
 
